@@ -1,6 +1,6 @@
 ---
 
-# **URL Automate Studio v1.0.0.1 (Beta)**
+# **URL Automate Studio**
 
 Automated SEO, URL Scraping, Platform Identification & Auto Commenting Toolkit
 © 2025 – teknoxpert
