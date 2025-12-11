@@ -30,33 +30,31 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 
 ## **1. Auto Comment Submitter**
 
-```markdown
+<div align="center">
 ![Auto Comment Submitter](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/AutoCommentSubmitter.jpg)
-```
-
----
+</div>
 
 ## **2. Platform Identifier**
 
-```markdown
-![Platform Identifier](https://github.com/MichaelJorky/URL-Automate-Studio/blob/main/assets/images/PlatformIdentifier.jpg)
-```
+<div align="center">
+![Platform Identifier](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/PlatformIdentifier.jpg)
+</div>
 
 ---
 
 ## **3. Search Engine Scrape**
 
-```markdown
-![Search Engine Scrape](https://github.com/MichaelJorky/URL-Automate-Studio/blob/main/assets/images/SearchEngineScrape.jpg)
-```
+<div align="center">
+![Search Engine Scrape](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/SearchEngineScrape.jpg)
+</div>
 
 ---
 
 ## **4. URL Redirect PRO**
 
-```markdown
-![URL Redirect PRO](https://github.com/MichaelJorky/URL-Automate-Studio/blob/main/assets/images/URLRedirectPro.jpg)
-```
+<div align="center">
+![URL Redirect PROr](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/URLRedirectPro.jpg)
+</div>
 
 ---
 
