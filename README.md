@@ -18,12 +18,13 @@ Automated SEO, URL Scraping, Platform Identification & Auto Commenting Toolkit
 
 Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automation Task, dan Web Analysis.
 
+> **Catatan Penting:**
+> URL Automate Studio **hanya mendukung sistem operasi Windows 64-bit** (x64).
+> Versi 32-bit (x86) tidak didukung karena aplikasi memerlukan pustaka dan modul otomatisasi yang memanfaatkan arsitektur 64-bit untuk performa optimal.
+
 ---
 
 # **📸 Screenshot Tampilan Aplikasi**
-
-> **Catatan:** Sesuaikan path gambar Anda di GitHub seperti contoh berikut (misal simpan gambar di folder `/assets/images/`).
-> Ganti sesuai lokasi folder repo Anda.
 
 ---
 
@@ -141,7 +142,7 @@ URL Automate Studio.exe
 
 | File                       | Deskripsi                 |
 | -------------------------- | ------------------------- |
-| `assets_urlredirect.txt`   | Core URL redirect module. |
+| `assets/_urlredirect.txt`   | Core URL redirect module. |
 | `_AutoCommentSubmitter.py` | Script internal.          |
 | `_PlatformIdentifier.py`   | Script internal.          |
 | `_SearchEngineScrape.py`   | Script internal.          |
