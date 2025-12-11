@@ -53,7 +53,7 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **4. URL Redirect PRO**
 
 <div align="center">
-  <img src="./assets/images/URLRedirectPro.jpg" alt="URL Redirect PRO" width="400" height="250">
+  <img src="./assets/images/URLRedirectPro.jpg" alt="URL Redirect PRO">
 </div>
 
 ---
