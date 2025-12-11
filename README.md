@@ -1,5 +1,3 @@
----
-
 # **URL Automate Studio**
 
 Automated SEO, URL Scraping, Platform Identification & Auto Commenting Toolkit
@@ -25,8 +23,6 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ---
 
 # **📸 Screenshot Tampilan Aplikasi**
-
----
 
 ## **1. Auto Comment Submitter**
 
@@ -174,7 +170,6 @@ Termasuk:
 2. Klik **Start Scrape**
 3. Lihat hasil di panel atau folder `logs/`
 
----
 
 ## **2. Platform Identifier**
 
@@ -182,7 +177,6 @@ Termasuk:
 2. Klik **Start Identify**
 3. Software akan menampilkan CMS, Server, WAF, dll.
 
----
 
 ## **3. Auto Comment Submitter**
 
@@ -194,7 +188,6 @@ Termasuk:
    * dll.
 2. Klik **Start Submit**
 
----
 
 ## **4. URL Redirect PRO**
 
