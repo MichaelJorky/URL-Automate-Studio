@@ -172,7 +172,7 @@ Termasuk:
 
 ## **1. Search Engine Scrape**
 
-1. Masukkan keyword di `locales_keyword.txt`
+1. Masukkan keyword di `locales/_keyword.txt`
 2. Klik **Start Scrape**
 3. Lihat hasil di panel atau folder `logs/`
 
