@@ -1,0 +1,100 @@
+Jakarta, Indonesia
+Surabaya, Indonesia
+Bandung, Indonesia
+Medan, Indonesia
+Denpasar, Indonesia
+New York, USA
+Los Angeles, USA
+Chicago, USA
+Houston, USA
+Miami, USA
+London, United Kingdom
+Manchester, United Kingdom
+Birmingham, United Kingdom
+Liverpool, United Kingdom
+Bristol, United Kingdom
+Paris, France
+Lyon, France
+Marseille, France
+Nice, France
+Toulouse, France
+Berlin, Germany
+Munich, Germany
+Frankfurt, Germany
+Hamburg, Germany
+Cologne, Germany
+Rome, Italy
+Milan, Italy
+Naples, Italy
+Turin, Italy
+Venice, Italy
+Madrid, Spain
+Barcelona, Spain
+Valencia, Spain
+Sevilla, Spain
+Bilbao, Spain
+Tokyo, Japan
+Osaka, Japan
+Kyoto, Japan
+Yokohama, Japan
+Sapporo, Japan
+Seoul, South Korea
+Busan, South Korea
+Incheon, South Korea
+Daegu, South Korea
+Daejeon, South Korea
+Beijing, China
+Shanghai, China
+Guangzhou, China
+Shenzhen, China
+Chengdu, China
+Bangkok, Thailand
+Chiang Mai, Thailand
+Pattaya, Thailand
+Phuket, Thailand
+Hat Yai, Thailand
+Kuala Lumpur, Malaysia
+Penang, Malaysia
+Johor Bahru, Malaysia
+Malacca, Malaysia
+Kuching, Malaysia
+Singapore, Singapore
+Manila, Philippines
+Cebu, Philippines
+Davao, Philippines
+Baguio, Philippines
+Sydney, Australia
+Melbourne, Australia
+Brisbane, Australia
+Perth, Australia
+Adelaide, Australia
+Cairo, Egypt
+Alexandria, Egypt
+Giza, Egypt
+Luxor, Egypt
+Aswan, Egypt
+Cape Town, South Africa
+Johannesburg, South Africa
+Pretoria, South Africa
+Durban, South Africa
+Port Elizabeth, South Africa
+Dubai, United Arab Emirates
+Abu Dhabi, United Arab Emirates
+Doha, Qatar
+Riyadh, Saudi Arabia
+Jeddah, Saudi Arabia
+Istanbul, Turkey
+Ankara, Turkey
+Izmir, Turkey
+Antalya, Turkey
+Bursa, Turkey
+Mexico City, Mexico
+Guadalajara, Mexico
+Monterrey, Mexico
+Cancun, Mexico
+Tijuana, Mexico
+Buenos Aires, Argentina
+Córdoba, Argentina
+Rosario, Argentina
+Mendoza, Argentina
+Salta, Argentina
