@@ -27,13 +27,13 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **1. Auto Comment Submitter**
 
 <div align="center">
-  <img src="./assets/images/AutoCommentSubmitter.jpg" alt="Auto Comment Submitter">
+  <img src="./assets/images/AutoCommentSubmitter.jpg" alt="Auto Comment Submitter" width="500" height="335">
 </div>
 
 ## **2. Platform Identifier**
 
 <div align="center">
-  <img src="./assets/images/PlatformIdentifier.jpg" alt="Platform Identifier">
+  <img src="./assets/images/PlatformIdentifier.jpg" alt="Platform Identifier" width="500" height="335">
 </div>
 
 ---
@@ -41,7 +41,7 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **3. Search Engine Scrape**
 
 <div align="center">
-  <img src="./assets/images/SearchEngineScrape.jpg" alt="Search Engine Scrape">
+  <img src="./assets/images/SearchEngineScrape.jpg" alt="Search Engine Scrape" width="500" height="335">
 </div>
 
 ---
@@ -49,8 +49,9 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **4. URL Redirect PRO**
 
 <div align="center">
-  <img src="./assets/images/URLRedirectPro.jpg" alt="URL Redirect PRO">
+  <img src="./assets/images/URLRedirectPro.jpg" alt="URL Redirect PRO" width="500" height="335">
 </div>
+
 
 ---
 
