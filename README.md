@@ -31,13 +31,13 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **1. Auto Comment Submitter**
 
 <div align="center">
-![Auto Comment Submitter](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/AutoCommentSubmitter.jpg)
+  <img src="./assets/images/AutoCommentSubmitter.jpg" alt="Auto Comment Submitter">
 </div>
 
 ## **2. Platform Identifier**
 
 <div align="center">
-![Platform Identifier](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/PlatformIdentifier.jpg)
+  <img src="./assets/images/PlatformIdentifier.jpg" alt="Platform Identifier">
 </div>
 
 ---
@@ -45,7 +45,7 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **3. Search Engine Scrape**
 
 <div align="center">
-![Search Engine Scrape](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/SearchEngineScrape.jpg)
+  <img src="./assets/images/SearchEngineScrape.jpg" alt="Search Engine Scrape">
 </div>
 
 ---
@@ -53,7 +53,7 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **4. URL Redirect PRO**
 
 <div align="center">
-![URL Redirect PROr](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/URLRedirectPro.jpg)
+  <img src="./assets/images/URLRedirectPro.jpg" alt="URL Redirect PROr">
 </div>
 
 ---
