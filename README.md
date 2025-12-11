@@ -31,7 +31,7 @@ Software ini cocok untuk kebutuhan SEO, Web Research, Digital Marketing, Automat
 ## **1. Auto Comment Submitter**
 
 ```markdown
-![Auto Comment Submitter](https://github.com/MichaelJorky/URL-Automate-Studio/blob/main/assets/images/AutoCommentSubmitter.jpg)
+![Auto Comment Submitter](https://raw.githubusercontent.com/MichaelJorky/URL-Automate-Studio/main/assets/images/AutoCommentSubmitter.jpg)
 ```
 
 ---
