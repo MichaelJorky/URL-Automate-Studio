@@ -204,6 +204,38 @@ URL Automate Studio mendukung penggunaan **external tools** untuk meningkatkan t
 
 ---
 
+## **📦 Node Driver for Playwright – Required Component**
+
+Beberapa sistem tidak mengizinkan Playwright driver di-*commit* langsung ke branch utama, sehingga file **node.exe** disediakan melalui halaman Release ini.
+
+### **📥 Download**
+
+Silakan unduh file berikut:
+
+➡️ **node.exe**
+Link:
+`https://github.com/MichaelJorky/URL-Automate-Studio/releases/download/v1.0.0.1-Beta/node.exe`
+
+### **📂 Installation Instructions**
+
+Setelah mengunduh **node.exe**, lakukan langkah berikut:
+
+1. Buka folder instalasi aplikasi.
+2. Masuk ke direktori berikut:
+
+```
+runtime/Lib/site-packages/playwright/driver
+```
+
+3. **Copy–paste `node.exe`** ke dalam folder tersebut.
+4. Jalankan kembali aplikasi URL Automate Studio.
+
+### ✔️ Done!
+
+Playwright seharusnya dapat berjalan normal setelah `node.exe` dimasukkan ke direktori driver.
+
+---
+
 # **⚠️ Disclaimer**
 
 Software ini hanya untuk keperluan:
