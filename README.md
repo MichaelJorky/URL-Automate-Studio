@@ -198,6 +198,12 @@ Termasuk:
 
 ---
 
+## 🔧 External Tools Support
+
+URL Automate Studio mendukung penggunaan **external tools** untuk meningkatkan tingkat keberhasilan proses submit. Aplikasi dapat terintegrasi dengan layanan pihak ketiga seperti **GSA Captcha Breaker** untuk menangani verifikasi CAPTCHA secara otomatis. Dengan integrasi ini, proses auto-submit menjadi lebih cepat, efisien, dan mampu melewati halaman yang membutuhkan CAPTCHA tanpa intervensi manual.
+
+---
+
 # **⚠️ Disclaimer**
 
 Software ini hanya untuk keperluan:
